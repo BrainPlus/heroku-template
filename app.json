@@ -162,7 +162,7 @@
   "formation": {
     "web": {
       "quantity": 1,
-      "size": "free"
+      "size": "hobby"
     }
   },
   "image": "heroku/nodejs",
